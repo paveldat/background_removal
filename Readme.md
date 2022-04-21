@@ -22,6 +22,7 @@ Increment this number until you see your webcam.
 ## Background
 All background images could be found in img folder. 
 Each image must be 640*480 pixels.
+
 You can change this parametres here:
 ```
 cap.set(3, 640)
