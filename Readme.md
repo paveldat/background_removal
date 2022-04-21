@@ -31,7 +31,7 @@ cap.set(4, 480)
 And after that you can upload images for the background of other sizes indicated in these two lines.
 
 ## Change background images
-You can change background pressing "a" or "d".
+You can change background pressing "a" or "d". For exiting the program just press "q".
 
 ## Result
 ![Alt Text](https://github.com/paveldat/background_removal/blob/main/result/result.gif)
